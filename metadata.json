@@ -1,0 +1,6 @@
+{
+  "name": "EWB AWS VPC Peering Lab",
+  "description": "Comprehensive AWS VPC Peering student project workbook application for private network connectivity, architecture validation, evidence collection, and evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
